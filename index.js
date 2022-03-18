@@ -47,7 +47,7 @@ const mapBase = new maplibregl.Map({
 const mapOverlay = new maplibregl.Map({
     container: 'mapOverlay',
     style: hs,
-    "center": [166.453857,-45.821143,14],
+    "center": [174.0,-41.29],
     "zoom": 9,
     });
 
