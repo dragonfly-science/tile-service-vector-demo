@@ -7,7 +7,7 @@
     "sources": {
       "combined": {
         "tiles": [
-            "http://localhost:8001/tiles/bw/{z}/{x}/{y}.pbf"
+            "https://tile-service-vector.s3.us-west-1.amazonaws.com/tiles/bw/{z}/{x}/{y}.pbf"
         ],
         "type": "vector",
         "maxzoom": 11,
