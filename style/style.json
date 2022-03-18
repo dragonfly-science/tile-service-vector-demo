@@ -7,7 +7,7 @@
     "sources": {
       "combined": {
         "tiles": [
-            "https://s3.us-east-1.amazonaws.com/xycarto-base-maps/tile-service-vector/tiles/{z}/{x}/{y}.pbf"
+            "https://xycarto-base-maps.s3-ap-southeast-2.amazonaws.com/tile-service-vector/tiles/{z}/{x}/{y}.pbf"
         ],
         "type": "vector",
         "maxzoom": 11,
