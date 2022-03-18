@@ -3,7 +3,7 @@ const hs = {
     "sources": {
         "hs_raster": {
                 "type": "raster",
-                "tiles": ["https://xycarto-base-maps.s3.ap-southeast-2.amazonaws.com/tile-service-vector/tiles/hs-nz/{z}/{x}/{y}.png"],
+                "tiles": ["https://xycarto-base-maps.s3.ap-southeast-2.amazonaws.com/tile-service-raster/tiles/hs-nz/{z}/{x}/{y}.png"],
                 "bounds": [-178.826516,-52.620881,179.067794,-29.231342],
                 "scheme": "tms",
                 "tileSize": 256,
